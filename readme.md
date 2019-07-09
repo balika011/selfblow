@@ -1,6 +1,6 @@
 Selfblow exploit
 
-This is an untethered coldboot exploit and as far as i can tell it affects every single Tegra device released so far.
+This is an untethered coldboot exploit and as far as i can tell it affects every single Tegra device released so far. (Except the Nintendo Switch since it uses a custom bootloader.)
 Completely defeats secure boot even on latest firmware.
 
 TL;DR: nvtboot (NVC) loads nvtboot-cpu (TBC) without validating the load address first, leading to arbitrary memory write.
