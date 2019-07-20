@@ -20,4 +20,4 @@ After 4 months I decided to give this to the public in good faith that will enco
 
 UPDATE: On July 18 NVIDIA released L4T 32.2, but they left selfblow out in the release notes. (It's still not there!) 
 The other day they released the July 2019 Security Bulletin with a single CVE identifier: CVE‑2019‑5680.
-Got the score of 7.7. This is wrong, since the exploit doesn't doesn't requiters user interaction, so the correct one is 8.1.
+Got the score of 7.7. This is wrong, since the exploit doesn't requiters user interaction, so the correct one is 8.1.
